@@ -1,4 +1,4 @@
-I have worked on the bids dataset from CloudFrame that someone shared on the meetup group. The dataset details and the problem is defined below.
+I have worked on the bids dataset from CloudFrame that someone shared on the meetup group. The dataset details and the problem are defined below.
 
 Predicting Bid Outcomes for Texas DOT Road Construction Projects
 
